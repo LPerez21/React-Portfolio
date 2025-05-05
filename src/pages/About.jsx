@@ -27,17 +27,6 @@ export default function About() {
           Outside of coding, you’ll find me analyzing stock trends, studying game mechanics, or helping others navigate tech careers.
         </p>
       </div>
-
-      <div style={styles.resume}>
-        <h3>Resume</h3>
-        <a href="/Luis_Perez_Resume_2025.docx" download style={styles.link}>
-          📄 Download Resume (.docx)
-        </a>
-        <br />
-        <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" style={styles.link}>
-          🔍 View Resume (PDF)
-        </a>
-      </div>
     </section>
   );
 }
